@@ -21,7 +21,7 @@
 
 **Google Colab:** https://colab.research.google.com/drive/1ZHr1zqimAeSdzzVxw7CU0QRj-WKM7Nyc?usp=sharing
 
-**Файл лабораторной:** [Lab3_Data_Quality.ipynb](./Lab3_Data_Quality.ipynb)
+**Файл лабораторной:** Lab3/PDA_26_27_ЛР3_Обеспечение_качества_данных.ipynb
 
 ### Используемые инструменты
 
